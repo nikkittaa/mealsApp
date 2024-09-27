@@ -22,7 +22,8 @@ The **Meals App** is a simple mobile application built using React Native. It al
 1. **All Categories Screen**:
    - Lists all meal categories.
    - On clicking a category, the app navigates to a screen displaying meals under that category.
-   - <img src = "https://github.com/user-attachments/assets/81bcc4a0-6c9a-4ec3-8f95-650b6b416d42" height = 150/>  <img src = "https://github.com/user-attachments/assets/dd6203b0-194b-437b-a729-52ea573c6ee7" height = 150/>
+   - <img src = "https://github.com/user-attachments/assets/81bcc4a0-6c9a-4ec3-8f95-650b6b416d42" height = 150/> <img src = "https://github.com/user-attachments/assets/4e01bfcd-a0f3-4bfd-9389-9bef61a68a8e" height = 150/>
+
 
 2. **Meal Details Screen**:
    - When a meal is clicked, a new screen shows the meal’s detailed information, such as ingredients, cooking steps, and other details.
@@ -31,8 +32,7 @@ The **Meals App** is a simple mobile application built using React Native. It al
 3. **Favorites Screen**:
    - Displays meals that the user has marked as favorites.
    - Users can add or remove meals from favorites, and the state is managed globally using the `useContext` hook.
-   - <img src = "https://github.com/user-attachments/assets/81724dea-7cfe-4710-83d3-00501431bd87" height = 150/>
-   <img src = "https://github.com/userattachments/assets/dd669659-8dcd-4642-8a23-851365041881" height = 150/>
+   - <img src = "https://github.com/user-attachments/assets/81724dea-7cfe-4710-83d3-00501431bd87" height = 150/>    <img src = "https://github.com/user-attachments/assets/5c6b7c0b-9c6c-4cf4-9a65-449e37e7c0ae" height = 150/>
 
 
 ## Tech Stack
