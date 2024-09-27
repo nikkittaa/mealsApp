@@ -14,7 +14,7 @@ The **Meals App** is a simple mobile application built using React Native. It al
 2. **Favorites Screen**:
    - Displays a list of meals that the user has marked as favorites.
    - Favorites are managed using React's `useContext` hook to maintain global state across the app.
-   - <img src = "https://github.com/user-attachments/assets/74dea65a-eeac-4d78-9294-4630768351b0" height = 150 width = 100/>
+   - <img src = "https://github.com/user-attachments/assets/74dea65a-eeac-4d78-9294-4630768351b0" height = 250 width = 80/>
 
 
 ## Screens
